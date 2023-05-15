@@ -23,5 +23,5 @@ The primary objective of this project is to accurately determine whether a perso
 
 ### With Mask
 
-<img src="withmaskouput.png">
+<img src="withmaskoutput.png">
 
