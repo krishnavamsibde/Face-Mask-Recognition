@@ -22,5 +22,5 @@ The primary objective of this project is to accurately determine whether a perso
 
 ### Without Mask
 
-<img src="withoutmaskoutput.jpeg">
+<img src="withoutmaskoutput.png">
 
