@@ -14,3 +14,11 @@ During the training phase, the model was trained for 20 iterations to improve ac
 
 ## Summary
 The primary objective of this project is to accurately determine whether a person is wearing a face mask or not. Python and Keras were utilized to design the project, allowing for the identification of facial features such as eyes, eyebrows, and other relevant characteristics. The Kaggle dataset was used for training and testing, while OpenCV was employed to validate the observations made. By combining all the components of our architecture, we aim to create a highly accurate system for detecting face masks. The resulting system demonstrates promising performance in identifying face masks within images, even in the presence of multiple faces and varying angles.
+
+## Output
+### With Mask
+
+
+### Without Mask
+
+
