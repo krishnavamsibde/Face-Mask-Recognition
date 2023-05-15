@@ -18,7 +18,9 @@ The primary objective of this project is to accurately determine whether a perso
 ## Output
 ### With Mask
 
+<img src="withmaskouput.jpeg">
 
 ### Without Mask
 
+<img src="withoutmaskoutput.jpeg">
 
